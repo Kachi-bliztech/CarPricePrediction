@@ -9,7 +9,7 @@ Problem Statement:
 The goal is to predict the resale value of used cars by identifying patterns within a dataset containing multiple features. Accurately forecasting car prices can help dealerships, individual sellers, and online platforms improve pricing strategies, enhance customer trust, and optimize profitability.
 
 Model Approach:
-- <b>Collected and explored a dataset comprising historical data on used cars, including features such as brand, model, mileage, fuel type, transmission, engine size, and selling price.</b>
+- </b>Collected and explored a dataset comprising historical data on used cars, including features such as brand, model, mileage, fuel type, transmission, engine size, and selling price.</b>
 - </b>Conducted data cleaning and preprocessing: a.Handled missing values and outliers b.Performed encoding of categorical variables c.Scaled numerical features</b>
 - </b>Performed exploratory data analysis (EDA) to uncover feature relationships and correlations with car prices</b>
 
@@ -21,11 +21,11 @@ Built and tested  machine learning model: </b>
 
 <h2>Skills </h2>
 
-- <b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
-- <b>Exploratory Data Analysis (EDA)</b>
-- <b>Linear and lasso Regression model</b>
-- <b>Feature engineering</b>
-- <b>Model evaluation and interpretation</b>
+- </b>Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)</b>
+- </b>Exploratory Data Analysis (EDA)</b>
+- </b>Linear and lasso Regression model</b>
+- </b>Feature engineering</b>
+- </b>Model evaluation and interpretation</b>
 
 <h2>Outcomes </h2>
 
